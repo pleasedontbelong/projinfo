@@ -3,3 +3,4 @@ requests
 ipython
 django-extensions
 gunicorn
+whitenoise
