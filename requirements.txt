@@ -2,3 +2,4 @@ django
 requests
 ipython
 django-extensions
+gunicorn
